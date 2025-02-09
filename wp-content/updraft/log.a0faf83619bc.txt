@@ -1,0 +1,674 @@
+0000.003 (0) Opened log file at time: Sun, 09 Feb 2025 05:16:39 +0000 on http://localhost/careerconnect/wordpress-6.7.1/wordpress
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.1 PHP: 8.2.12 (apache2handler, Windows NT LAPTOP-N3PQ8S06 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 89.2M | 96M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 359123.3 MB
+0000.015 (0) Deleting old temporary file: backup_2025-02-08-1706_Career_Connect_231e735c81b6-plugins.zip.tmp
+0000.025 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.027 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.074 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1739034621, seconds_ago=43578)
+0000.081 (0) Set semaphore last lock (fd) time to 2025-02-09 05:16:39
+0000.082 (0) Semaphore lock (fd) complete
+0000.092 (0) Backup run: resumption=0, nonce=a0faf83619bc, file_nonce=a0faf83619bc begun at=1739078199 (0s ago), job type=backup
+0000.106 (0) Scheduling a resumption (1) after 406 seconds (1739078605) in case this run gets aborted
+0000.168 (0) Checking if we have a zip executable available
+0000.173 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.175 (0) Creation of backups of directories: beginning
+0000.185 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0010.369 (0) Total entities for the zip file: 1775 directories, 10089 files (0 skipped as non-modified), 169.2 MB
+0010.371 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 173276.2 KB, split: 409600 KB)
+0010.511 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.560 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0010.617 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0010.678 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.748 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0010.823 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0010.873 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0010.937 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0010.989 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0011.062 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0011.133 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0011.211 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0011.274 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0011.351 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0011.413 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0011.482 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0011.548 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0011.621 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0011.683 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0011.748 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0011.816 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0011.891 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0011.958 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0012.026 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0012.117 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0012.207 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0012.279 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0012.341 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0012.409 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0012.478 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0012.551 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0012.620 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0012.692 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0012.760 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0012.852 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0012.938 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0013.016 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0013.076 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0013.157 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0013.224 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0013.293 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0013.375 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0013.464 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0013.555 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0013.644 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0013.750 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0013.840 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0013.931 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0014.018 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0014.125 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0014.190 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0014.255 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0014.319 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0014.400 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0014.476 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0014.547 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0014.623 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0014.696 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0014.758 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0014.809 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0014.864 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0014.915 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0014.967 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0015.025 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0015.080 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0015.131 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0015.187 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0015.252 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0015.316 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0015.383 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0015.441 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0015.505 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0015.557 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0015.608 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0015.664 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0015.722 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0015.797 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0015.873 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7800 files added (on-disk size: 0 KB)
+0015.931 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 7900 files added (on-disk size: 0 KB)
+0015.986 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8000 files added (on-disk size: 0 KB)
+0016.042 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8100 files added (on-disk size: 0 KB)
+0016.094 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8200 files added (on-disk size: 0 KB)
+0016.145 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8300 files added (on-disk size: 0 KB)
+0016.201 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8400 files added (on-disk size: 0 KB)
+0016.257 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8500 files added (on-disk size: 0 KB)
+0016.319 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8600 files added (on-disk size: 0 KB)
+0016.382 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8700 files added (on-disk size: 0 KB)
+0016.440 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8800 files added (on-disk size: 0 KB)
+0016.501 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 8900 files added (on-disk size: 0 KB)
+0016.562 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9000 files added (on-disk size: 0 KB)
+0016.621 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9100 files added (on-disk size: 0 KB)
+0016.688 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9200 files added (on-disk size: 0 KB)
+0016.749 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9300 files added (on-disk size: 0 KB)
+0016.807 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9400 files added (on-disk size: 0 KB)
+0016.887 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9500 files added (on-disk size: 0 KB)
+0016.965 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9600 files added (on-disk size: 0 KB)
+0017.038 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9700 files added (on-disk size: 0 KB)
+0017.092 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9800 files added (on-disk size: 0 KB)
+0017.140 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 9900 files added (on-disk size: 0 KB)
+0017.199 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp: 10000 files added (on-disk size: 0 KB)
+0409.437 (1) Opened log file at time: Sun, 09 Feb 2025 05:23:28 +0000 on http://localhost/careerconnect/wordpress-6.7.1/wordpress
+0409.445 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.1 PHP: 8.2.12 (apache2handler, Windows NT LAPTOP-N3PQ8S06 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 89.2M | 96M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0409.448 (1) Free space on disk containing Updraft's temporary directory: 358900.6 MB
+0409.451 (1) Requesting backup semaphore lock (a0faf83619bc)
+0409.460 (1) [Debug] Lock option (updraft_lock_a0faf83619bc, wp_options) was created in the database
+0409.462 (1) [Info] Lock (updraft_lock_a0faf83619bc, wp_options) acquired after initialising the database
+0409.470 (1) Backup run: resumption=1, nonce=a0faf83619bc, file_nonce=a0faf83619bc begun at=1739078199 (409s ago), job type=backup
+0409.475 (1) Scheduling a resumption (2) after 406 seconds (1739079014) in case this run gets aborted
+0409.500 (1) Checking if we have a zip executable available
+0409.503 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0409.506 (1) Creation of backups of directories: had begun; will resume
+0409.513 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0409.524 (1) Terminate: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1739078608, time_now=1739078608, diff=0, size=44808.4KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0409.530 (1) Rescheduling resumption 2: moving to 526 seconds from now (1739079134)
+0409.539 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 406 + 120 = 526
+0686.885 (0) The time we have been running (686.9) is approaching the resumption interval (406) - increasing resumption interval to 717
+0686.993 (0) Creating zip file manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.list-temp.tmp)
+0687.037 (0) Successfully created zip file manifest (size: 857769)
+0687.622 (0) Created plugins zip (0) - 57642.8 KB in 687.4 s (83.9 KB/s) (sha1: b992bc7dcc10454f22fc6c9e91f3450097c0e34d, sha256: 672d87ada9a25804e3bf44afc38180d555ff5e9bd45131233369ac14792e2d46)
+0687.652 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0687.657 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8c6521319b43290511f69f9b9976c996)
+0692.399 (0) Google Drive: creating path: /UpdraftPlus
+0694.854 (0) Google Drive: quota usage: used=1679.4 MB, total=15360 MB, available=13680.6 MB
+0694.865 (0) Google Drive: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip: Attempting to upload to Google Drive (into folder id: 1lT-GT72u_FvbRB2FRlMhYw1fqUZn9gu7)
+0699.093 (0) The time we have been running (699.1) is approaching the resumption interval (717) - increasing resumption interval to 730
+0699.099 (0) Googledrive chunked upload: 1.8 % uploaded (1048576)
+0701.928 (0) The time we have been running (701.9) is approaching the resumption interval (730) - increasing resumption interval to 732
+0701.934 (0) Googledrive chunked upload: 3.6 % uploaded (2097152)
+0704.495 (0) The time we have been running (704.5) is approaching the resumption interval (732) - increasing resumption interval to 735
+0704.502 (0) Googledrive chunked upload: 5.3 % uploaded (3145728)
+0706.941 (0) The time we have been running (706.9) is approaching the resumption interval (735) - increasing resumption interval to 737
+0706.945 (0) Googledrive chunked upload: 7.1 % uploaded (4194304 - increasing chunk size to 2048 KB - memory usage: 94.2 / 114)
+0711.545 (0) The time we have been running (711.5) is approaching the resumption interval (737) - increasing resumption interval to 742
+0711.550 (0) Googledrive chunked upload: 10.7 % uploaded (6291456)
+0715.538 (0) The time we have been running (715.5) is approaching the resumption interval (742) - increasing resumption interval to 746
+0715.544 (0) Googledrive chunked upload: 14.2 % uploaded (8388608)
+0719.775 (0) The time we have been running (719.8) is approaching the resumption interval (746) - increasing resumption interval to 750
+0719.783 (0) Googledrive chunked upload: 17.8 % uploaded (10485760)
+0723.901 (0) The time we have been running (723.9) is approaching the resumption interval (750) - increasing resumption interval to 754
+0723.907 (0) Googledrive chunked upload: 21.3 % uploaded (12582912)
+0728.218 (0) The time we have been running (728.2) is approaching the resumption interval (754) - increasing resumption interval to 759
+0728.222 (0) Googledrive chunked upload: 24.9 % uploaded (14680064)
+0732.952 (0) The time we have been running (732.9) is approaching the resumption interval (759) - increasing resumption interval to 763
+0732.958 (0) Googledrive chunked upload: 28.4 % uploaded (16777216)
+0737.533 (0) The time we have been running (737.5) is approaching the resumption interval (763) - increasing resumption interval to 768
+0737.538 (0) Googledrive chunked upload: 32 % uploaded (18874368)
+0742.204 (0) The time we have been running (742.2) is approaching the resumption interval (768) - increasing resumption interval to 773
+0742.208 (0) Googledrive chunked upload: 35.5 % uploaded (20971520)
+0746.902 (0) The time we have been running (746.9) is approaching the resumption interval (773) - increasing resumption interval to 777
+0746.907 (0) Googledrive chunked upload: 39.1 % uploaded (23068672)
+0751.509 (0) The time we have been running (751.5) is approaching the resumption interval (777) - increasing resumption interval to 782
+0751.514 (0) Googledrive chunked upload: 42.6 % uploaded (25165824)
+0755.794 (0) The time we have been running (755.8) is approaching the resumption interval (782) - increasing resumption interval to 786
+0755.799 (0) Googledrive chunked upload: 46.2 % uploaded (27262976)
+0759.803 (0) The time we have been running (759.8) is approaching the resumption interval (786) - increasing resumption interval to 790
+0759.810 (0) Googledrive chunked upload: 49.7 % uploaded (29360128)
+0764.208 (0) The time we have been running (764.2) is approaching the resumption interval (790) - increasing resumption interval to 795
+0764.213 (0) Googledrive chunked upload: 53.3 % uploaded (31457280)
+0768.822 (0) The time we have been running (768.8) is approaching the resumption interval (795) - increasing resumption interval to 799
+0768.828 (0) Googledrive chunked upload: 56.8 % uploaded (33554432)
+0773.391 (0) The time we have been running (773.4) is approaching the resumption interval (799) - increasing resumption interval to 804
+0773.396 (0) Googledrive chunked upload: 60.4 % uploaded (35651584)
+0778.329 (0) The time we have been running (778.3) is approaching the resumption interval (804) - increasing resumption interval to 809
+0778.333 (0) Googledrive chunked upload: 64 % uploaded (37748736)
+0783.232 (0) The time we have been running (783.2) is approaching the resumption interval (809) - increasing resumption interval to 814
+0783.237 (0) Googledrive chunked upload: 67.5 % uploaded (39845888)
+0788.720 (0) The time we have been running (788.7) is approaching the resumption interval (814) - increasing resumption interval to 819
+0788.724 (0) Googledrive chunked upload: 71.1 % uploaded (41943040)
+0793.108 (0) The time we have been running (793.1) is approaching the resumption interval (819) - increasing resumption interval to 824
+0793.112 (0) Googledrive chunked upload: 74.6 % uploaded (44040192)
+0797.396 (0) The time we have been running (797.4) is approaching the resumption interval (824) - increasing resumption interval to 828
+0797.402 (0) Googledrive chunked upload: 78.2 % uploaded (46137344)
+0802.014 (0) The time we have been running (802) is approaching the resumption interval (828) - increasing resumption interval to 833
+0802.019 (0) Googledrive chunked upload: 81.7 % uploaded (48234496)
+0807.443 (0) The time we have been running (807.4) is approaching the resumption interval (833) - increasing resumption interval to 838
+0807.451 (0) Googledrive chunked upload: 85.3 % uploaded (50331648)
+0811.967 (0) The time we have been running (812) is approaching the resumption interval (838) - increasing resumption interval to 842
+0811.972 (0) Googledrive chunked upload: 88.8 % uploaded (52428800)
+0816.709 (0) The time we have been running (816.7) is approaching the resumption interval (842) - increasing resumption interval to 847
+0816.717 (0) Googledrive chunked upload: 92.4 % uploaded (54525952)
+0821.241 (0) The time we have been running (821.2) is approaching the resumption interval (847) - increasing resumption interval to 852
+0821.245 (0) Googledrive chunked upload: 95.9 % uploaded (56623104)
+0825.847 (0) The time we have been running (825.8) is approaching the resumption interval (852) - increasing resumption interval to 856
+0825.853 (0) Googledrive chunked upload: 99.5 % uploaded (58720256)
+0828.444 (0) The time we have been running (828.4) is approaching the resumption interval (856) - increasing resumption interval to 859
+0828.448 (0) Googledrive chunked upload: 100 % uploaded (58720256)
+0828.457 (0) Google Drive: OK: Archive backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip uploaded in 133.59 seconds
+0828.459 (0) Recording as successfully uploaded: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip
+0828.476 (0) Deleting local file: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip: OK
+0828.490 (0) Beginning creation of dump of themes (split every: 400 MB)
+0829.372 (0) Total entities for the zip file: 151 directories, 864 files (0 skipped as non-modified), 31.2 MB
+0829.374 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 31909.6 KB, split: 409600 KB)
+0829.460 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0829.546 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0829.642 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0829.731 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0829.819 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0829.908 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0830.005 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0830.136 (0) Zip: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0864.596 (0) The time we have been running (864.6) is approaching the resumption interval (859) - increasing resumption interval to 895
+0864.610 (0) Creating zip file manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.list-temp.tmp)
+0864.617 (0) Successfully created zip file manifest (size: 60997)
+0864.809 (0) Created themes zip (0) - 20149.9 KB in 36.3 s (555 KB/s) (sha1: 90b515361156bfd1c7748c107ab6bdfcd8891e3b, sha256: 0146efd51217e62b2decbd35a4e386c80c2917432b292c12102831bdf8be871a)
+0864.818 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0864.820 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8c6521319b43290511f69f9b9976c996)
+0865.761 (0) Google Drive: quota usage: used=1735.7 MB, total=15360 MB, available=13624.3 MB
+0865.774 (0) Google Drive: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip: Attempting to upload to Google Drive (into folder id: 1lT-GT72u_FvbRB2FRlMhYw1fqUZn9gu7)
+0870.495 (0) The time we have been running (870.5) is approaching the resumption interval (895) - increasing resumption interval to 901
+0870.501 (0) Googledrive chunked upload: 5.1 % uploaded (1048576)
+0872.966 (0) The time we have been running (873) is approaching the resumption interval (901) - increasing resumption interval to 903
+0872.971 (0) Googledrive chunked upload: 10.2 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 92.7 / 116)
+0877.243 (0) The time we have been running (877.2) is approaching the resumption interval (903) - increasing resumption interval to 908
+0877.248 (0) Googledrive chunked upload: 20.3 % uploaded (4194304)
+0881.250 (0) The time we have been running (881.2) is approaching the resumption interval (908) - increasing resumption interval to 912
+0881.254 (0) Googledrive chunked upload: 30.5 % uploaded (6291456)
+0885.383 (0) The time we have been running (885.4) is approaching the resumption interval (912) - increasing resumption interval to 916
+0885.389 (0) Googledrive chunked upload: 40.7 % uploaded (8388608)
+0889.761 (0) The time we have been running (889.8) is approaching the resumption interval (916) - increasing resumption interval to 920
+0889.766 (0) Googledrive chunked upload: 50.8 % uploaded (10485760)
+0894.484 (0) The time we have been running (894.5) is approaching the resumption interval (920) - increasing resumption interval to 925
+0894.490 (0) Googledrive chunked upload: 61 % uploaded (12582912)
+0899.203 (0) The time we have been running (899.2) is approaching the resumption interval (925) - increasing resumption interval to 930
+0899.207 (0) Googledrive chunked upload: 71.1 % uploaded (14680064)
+0903.710 (0) The time we have been running (903.7) is approaching the resumption interval (930) - increasing resumption interval to 934
+0903.715 (0) Googledrive chunked upload: 81.3 % uploaded (16777216)
+0908.176 (0) The time we have been running (908.2) is approaching the resumption interval (934) - increasing resumption interval to 939
+0908.181 (0) Googledrive chunked upload: 91.5 % uploaded (18874368)
+0914.729 (0) The time we have been running (914.7) is approaching the resumption interval (939) - increasing resumption interval to 945
+0914.736 (0) Googledrive chunked upload: 100 % uploaded (18874368)
+0914.747 (0) Google Drive: OK: Archive backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip uploaded in 48.97 seconds
+0914.752 (0) Recording as successfully uploaded: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip
+0914.768 (0) Deleting local file: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip: OK
+0914.789 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0914.792 (0) Looking for candidates to backup in: C:\xampp\htdocs\careerconnect\wordpress-6.7.1\wordpress/wp-content/uploads
+0914.798 (0) finding files: 2015: adding to list (1)
+0914.801 (0) finding files: 2023: adding to list (2)
+0914.804 (0) finding files: 2025: adding to list (3)
+0914.807 (0) finding files: blockart: adding to list (4)
+0914.811 (0) finding files: elementor: adding to list (5)
+0914.814 (0) finding files: evf-logs: adding to list (6)
+0914.816 (0) finding files: job-manager-uploads: adding to list (7)
+0914.819 (0) finding files: job_applications: adding to list (8)
+0914.822 (0) finding files: tg-demo-pack: adding to list (9)
+0914.825 (0) finding files: ultimatemember: adding to list (10)
+0914.829 (0) finding files: wc-logs: adding to list (11)
+0914.832 (0) finding files: woocommerce-placeholder.png: adding to list (12)
+0914.835 (0) finding files: woocommerce_uploads: adding to list (13)
+0914.839 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0914.997 (0) Total entities for the zip file: 29 directories, 79 files (0 skipped as non-modified), 4.8 MB
+0915.000 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 4960.7 KB, split: 409600 KB)
+0916.844 (0) The time we have been running (916.8) is approaching the resumption interval (945) - increasing resumption interval to 947
+0916.860 (0) Creating zip file manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip.list-temp.tmp)
+0916.864 (0) Successfully created zip file manifest (size: 4861)
+0916.923 (0) Created uploads zip (0) - 3773.6 KB in 2.1 s (1822.6 KB/s) (sha1: 294c9d0e5a46c6245e5e3b3dcf0d25a057366c50, sha256: f90e545162549ec975ebcf053cdcc6c6653f6a67553191bcad34539ef1be7ac2)
+0916.933 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0916.937 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8c6521319b43290511f69f9b9976c996)
+0918.147 (0) Google Drive: quota usage: used=1755.4 MB, total=15360 MB, available=13604.6 MB
+0918.157 (0) Google Drive: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip: Attempting to upload to Google Drive (into folder id: 1lT-GT72u_FvbRB2FRlMhYw1fqUZn9gu7)
+0922.835 (0) The time we have been running (922.8) is approaching the resumption interval (947) - increasing resumption interval to 953
+0922.840 (0) Googledrive chunked upload: 27.1 % uploaded (1048576)
+0926.562 (0) The time we have been running (926.6) is approaching the resumption interval (953) - increasing resumption interval to 957
+0926.566 (0) Googledrive chunked upload: 54.3 % uploaded (2097152)
+0929.738 (0) The time we have been running (929.7) is approaching the resumption interval (957) - increasing resumption interval to 960
+0929.743 (0) Googledrive chunked upload: 81.4 % uploaded (3145728)
+0932.741 (0) The time we have been running (932.7) is approaching the resumption interval (960) - increasing resumption interval to 963
+0932.745 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0932.751 (0) Google Drive: OK: Archive backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip uploaded in 14.59 seconds
+0932.753 (0) Recording as successfully uploaded: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip
+0932.758 (0) Deleting local file: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip: OK
+0932.767 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0932.769 (0) Does not exist: C:\xampp\htdocs\careerconnect\wordpress-6.7.1\wordpress/wp-content/mu-plugins
+0932.772 (0) There are no mu-plugins to backup. Will not raise an error.
+0932.774 (0) mu-plugins: create_zip returned an error
+0932.778 (0) Beginning backup of other directories found in the content directory (index: 0)
+0932.780 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0932.782 (0) Looking for candidates to backup in: C:\xampp\htdocs\careerconnect\wordpress-6.7.1\wordpress/wp-content
+0932.784 (0) finding files: index.php: adding to list (1)
+0932.786 (0) finding files: languages: adding to list (2)
+0932.788 (0) finding files: plugins: skipping: this is the plugins directory
+0932.790 (0) finding files: themes: skipping: this is the themes directory
+0932.792 (0) finding files: updraft: skipping: this is the updraft directory
+0932.793 (0) finding files: upgrade: skipping: excluded by options
+0932.795 (0) finding files: uploads: skipping: this is the uploads directory
+0932.809 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0932.811 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0932.896 (0) Creating zip file manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip.list-temp.tmp)
+0932.899 (0) Successfully created zip file manifest (size: 43)
+0932.915 (0) Created others zip (0) - 0.3 KB in 0.1 s (3.2 KB/s) (sha1: 1de65fc434927d2845b86b8c77d91ffd9cf68593, sha256: 0f33b17cdcf264b8fa15778dcfeb0a6db5d3487165f18262494cb2ddca6d8637)
+0932.925 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0932.927 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8c6521319b43290511f69f9b9976c996)
+0933.845 (0) Google Drive: quota usage: used=1759.1 MB, total=15360 MB, available=13600.9 MB
+0933.847 (0) Google Drive: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip: Attempting to upload to Google Drive (into folder id: 1lT-GT72u_FvbRB2FRlMhYw1fqUZn9gu7)
+0938.274 (0) The time we have been running (938.3) is approaching the resumption interval (963) - increasing resumption interval to 969
+0938.280 (0) Googledrive chunked upload: 100 % uploaded
+0938.288 (0) Google Drive: OK: Archive backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip uploaded in 4.44 seconds
+0938.290 (0) Recording as successfully uploaded: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip
+0938.295 (0) Deleting local file: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip: OK
+0938.311 (0) Saving backup status to database (elements: 8)
+0938.322 (0) Beginning creation of database dump (WordPress DB)
+0938.325 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0938.459 (0) Table wp_options: Total expected rows (via COUNT): 672
+0938.622 (0) Table wp_options: Rows added in this batch (next record: 1420): 668 (uncompressed bytes in this segment=3527347) in 0.22 seconds
+0938.651 (0) Table wp_options: finishing file(s) (2, 578.3 KB)
+0938.683 (0) Table wp_users: Total expected rows (via COUNT): 4
+0938.686 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0938.693 (0) Table wp_users: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1778) in 0.03 seconds
+0938.709 (0) Table wp_users: finishing file(s) (2, 0.9 KB)
+0938.744 (0) Table wp_usermeta: Total expected rows (via COUNT): 119
+0938.747 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0938.754 (0) Table wp_usermeta: Rows added in this batch (next record: 146): 119 (uncompressed bytes in this segment=10204) in 0.03 seconds
+0938.773 (0) Table wp_usermeta: finishing file(s) (2, 3 KB)
+0938.816 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 3
+0938.819 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0938.825 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 10): 3 (uncompressed bytes in this segment=2881) in 0.04 seconds
+0938.842 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.9 KB)
+0938.876 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0938.883 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.03 seconds
+0938.899 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0938.934 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0938.936 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0938.942 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=668) in 0.03 seconds
+0938.956 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0939.012 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 7
+0939.014 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.019 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1377) in 0.03 seconds
+0939.032 (0) The time we have been running (939) is approaching the resumption interval (969) - increasing resumption interval to 970
+0939.045 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0939.096 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0939.103 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.03 seconds
+0939.122 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0939.153 (0) Table wp_comments: Total expected rows (via COUNT): 3
+0939.156 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.163 (0) Table wp_comments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=2633) in 0.03 seconds
+0939.177 (0) Table wp_comments: finishing file(s) (2, 0.9 KB)
+0939.227 (0) Table wp_evf_entrymeta: Total expected rows (via COUNT): 0
+0939.232 (0) Table wp_evf_entrymeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=629) in 0.03 seconds
+0939.248 (0) Table wp_evf_entrymeta: finishing file(s) (2, 0.4 KB)
+0939.294 (0) Table wp_links: Total expected rows (via COUNT): 0
+0939.299 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.03 seconds
+0939.314 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0939.352 (0) Table wp_postmeta: Total expected rows (via COUNT): 898
+0939.354 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.370 (0) Table wp_postmeta: Rows added in this batch (next record: 987): 898 (uncompressed bytes in this segment=121947) in 0.05 seconds
+0939.388 (0) Table wp_postmeta: finishing file(s) (2, 18.7 KB)
+0939.444 (0) Table wp_posts: Total expected rows (via COUNT): 195
+0939.446 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.481 (0) Table wp_posts: Rows added in this batch (next record: 880): 195 (uncompressed bytes in this segment=1029710) in 0.08 seconds
+0939.500 (0) Table wp_posts: finishing file(s) (2, 87.9 KB)
+0939.534 (0) Table wp_term_relationships: Total expected rows (approximate): 25
+0939.542 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 25 (uncompressed bytes in this segment=1055) in 0.03 seconds
+0939.557 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0939.591 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 26
+0939.593 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.601 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1819) in 0.03 seconds
+0939.616 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0939.651 (0) Table wp_termmeta: Total expected rows (via COUNT): 5
+0939.653 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.658 (0) Table wp_termmeta: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=865) in 0.03 seconds
+0939.674 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0939.706 (0) Table wp_terms: Total expected rows (via COUNT): 26
+0939.708 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.714 (0) Table wp_terms: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1638) in 0.03 seconds
+0939.730 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0939.778 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 0
+0939.783 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=589) in 0.02 seconds
+0939.798 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0939.852 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 0
+0939.855 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1296) in 0.03 seconds
+0939.872 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0939.921 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0939.926 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.03 seconds
+0939.941 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0939.972 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0939.975 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0939.981 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=750) in 0.03 seconds
+0939.997 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0940.076 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0940.083 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.04 seconds
+0940.102 (0) The time we have been running (940.1) is approaching the resumption interval (970) - increasing resumption interval to 971
+0940.118 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0940.176 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0940.180 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.03 seconds
+0940.198 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0940.229 (0) Table wp_wpjm_stats: Total expected rows (via COUNT): 23
+0940.231 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0940.240 (0) Table wp_wpjm_stats: Rows added in this batch (next record: 140): 23 (uncompressed bytes in this segment=1969) in 0.03 seconds
+0940.258 (0) Table wp_wpjm_stats: finishing file(s) (2, 0.7 KB)
+0940.300 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0940.302 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0940.305 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=773) in 0.02 seconds
+0940.319 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0940.348 (0) Table wp_evf_entries: Total expected rows (via COUNT): 0
+0940.353 (0) Table wp_evf_entries: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=874) in 0.02 seconds
+0940.367 (0) Table wp_evf_entries: finishing file(s) (2, 0.5 KB)
+0940.400 (0) Table wp_evf_sessions: Total expected rows (via COUNT): 0
+0940.403 (0) Table wp_evf_sessions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.03 seconds
+0940.418 (0) Table wp_evf_sessions: finishing file(s) (2, 0.4 KB)
+0940.467 (0) Table wp_um_metadata: Total expected rows (via COUNT): 0
+0940.470 (0) Table wp_um_metadata: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.03 seconds
+0940.485 (0) Table wp_um_metadata: finishing file(s) (2, 0.4 KB)
+0940.516 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 86
+0940.518 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0940.524 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 596): 86 (uncompressed bytes in this segment=17805) in 0.03 seconds
+0940.541 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2.8 KB)
+0940.572 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 58
+0940.574 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0940.580 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 58): 58 (uncompressed bytes in this segment=28939) in 0.03 seconds
+0940.597 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.1 KB)
+0940.637 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0940.642 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.02 seconds
+0940.656 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0940.698 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0940.701 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.02 seconds
+0940.715 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0940.757 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0940.760 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1058) in 0.02 seconds
+0940.772 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0940.812 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0940.814 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.02 seconds
+0940.828 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0940.873 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0940.876 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1399) in 0.02 seconds
+0940.894 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0940.938 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0940.943 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.03 seconds
+0940.956 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0941.001 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0941.005 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1192) in 0.02 seconds
+0941.017 (0) The time we have been running (941) is approaching the resumption interval (971) - increasing resumption interval to 972
+0941.029 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0941.071 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0941.075 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.02 seconds
+0941.090 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0941.120 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0941.124 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1417) in 0.02 seconds
+0941.138 (0) Table wp_wc_orders: finishing file(s) (2, 0.5 KB)
+0941.176 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0941.181 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.02 seconds
+0941.194 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0941.234 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0941.239 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=831) in 0.02 seconds
+0941.251 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0941.291 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0941.294 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0941.299 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=945) in 0.02 seconds
+0941.311 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0941.352 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0941.357 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.02 seconds
+0941.370 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0941.412 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0941.415 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.02 seconds
+0941.430 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0941.474 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0941.477 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.02 seconds
+0941.492 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0941.533 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0941.537 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=835) in 0.02 seconds
+0941.551 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0941.597 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0941.601 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.03 seconds
+0941.616 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0941.657 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0941.659 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.02 seconds
+0941.675 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0941.718 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0941.721 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.02 seconds
+0941.735 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0941.775 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0941.778 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.02 seconds
+0941.792 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0941.824 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 15
+0941.826 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0941.832 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 31): 15 (uncompressed bytes in this segment=22019) in 0.03 seconds
+0941.847 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.5 KB)
+0941.878 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0941.884 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.03 seconds
+0941.896 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0941.926 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0941.929 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.02 seconds
+0941.948 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0941.980 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0941.983 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=602) in 0.02 seconds
+0941.998 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.3 KB)
+0942.043 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0942.046 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.02 seconds
+0942.058 (0) The time we have been running (942) is approaching the resumption interval (972) - increasing resumption interval to 973
+0942.070 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0942.097 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0942.100 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.02 seconds
+0942.113 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0942.115 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\careerconnect\wordpress-6.7.1\wordpress/wp-content/updraft/backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz (line 1923, C:\xampp\htdocs\careerconnect\wordpress-6.7.1\wordpress\wp-content\plugins\updraftplus\backup.php)
+0942.122 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_options.table.tmpr1421.gz (1/56/fopen): adding to final database dump
+0942.143 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_options.table.gz (2/56/fopen): adding to final database dump
+0942.145 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_users.table.tmpr5.gz (3/56/fopen): adding to final database dump
+0942.147 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_users.table.gz (4/56/fopen): adding to final database dump
+0942.149 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_usermeta.table.tmpr147.gz (5/56/fopen): adding to final database dump
+0942.152 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_usermeta.table.gz (6/56/fopen): adding to final database dump
+0942.154 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_actions.table.tmpr11.gz (7/56/fopen): adding to final database dump
+0942.156 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_actions.table.gz (8/56/fopen): adding to final database dump
+0942.158 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/56/fopen): adding to final database dump
+0942.160 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_claims.table.gz (10/56/fopen): adding to final database dump
+0942.162 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/56/fopen): adding to final database dump
+0942.165 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_groups.table.gz (12/56/fopen): adding to final database dump
+0942.167 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_logs.table.tmpr8.gz (13/56/fopen): adding to final database dump
+0942.169 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_actionscheduler_logs.table.gz (14/56/fopen): adding to final database dump
+0942.171 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_commentmeta.table.tmpr0.gz (15/56/fopen): adding to final database dump
+0942.173 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_commentmeta.table.gz (16/56/fopen): adding to final database dump
+0942.175 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_comments.table.tmpr4.gz (17/56/fopen): adding to final database dump
+0942.177 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_comments.table.gz (18/56/fopen): adding to final database dump
+0942.179 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_evf_entrymeta.table.tmpr0.gz (19/56/fopen): adding to final database dump
+0942.182 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_evf_entrymeta.table.gz (20/56/fopen): adding to final database dump
+0942.184 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_links.table.tmpr0.gz (21/56/fopen): adding to final database dump
+0942.186 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_links.table.gz (22/56/fopen): adding to final database dump
+0942.189 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_postmeta.table.tmpr988.gz (23/56/fopen): adding to final database dump
+0942.191 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_postmeta.table.gz (24/56/fopen): adding to final database dump
+0942.193 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_posts.table.tmpr881.gz (25/56/fopen): adding to final database dump
+0942.198 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_posts.table.gz (26/56/fopen): adding to final database dump
+0942.200 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_term_relationships.table.tmpr100001.gz (27/56/fopen): adding to final database dump
+0942.203 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_term_relationships.table.gz (28/56/fopen): adding to final database dump
+0942.206 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_term_taxonomy.table.tmpr27.gz (29/56/fopen): adding to final database dump
+0942.208 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_term_taxonomy.table.gz (30/56/fopen): adding to final database dump
+0942.210 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_termmeta.table.tmpr6.gz (31/56/fopen): adding to final database dump
+0942.213 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_termmeta.table.gz (32/56/fopen): adding to final database dump
+0942.215 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_terms.table.tmpr27.gz (33/56/fopen): adding to final database dump
+0942.217 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_terms.table.gz (34/56/fopen): adding to final database dump
+0942.220 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_category_lookup.table.tmpr1001.gz (35/56/fopen): adding to final database dump
+0942.222 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_category_lookup.table.gz (36/56/fopen): adding to final database dump
+0942.225 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_product_meta_lookup.table.tmpr0.gz (37/56/fopen): adding to final database dump
+0942.227 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_product_meta_lookup.table.gz (38/56/fopen): adding to final database dump
+0942.229 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_reserved_stock.table.tmpr1.gz (39/56/fopen): adding to final database dump
+0942.231 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_reserved_stock.table.gz (40/56/fopen): adding to final database dump
+0942.233 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (41/56/fopen): adding to final database dump
+0942.236 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_tax_rate_classes.table.gz (42/56/fopen): adding to final database dump
+0942.238 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (43/56/fopen): adding to final database dump
+0942.240 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_order_itemmeta.table.gz (44/56/fopen): adding to final database dump
+0942.242 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (45/56/fopen): adding to final database dump
+0942.244 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_payment_tokenmeta.table.gz (46/56/fopen): adding to final database dump
+0942.246 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wpjm_stats.table.tmpr141.gz (47/56/fopen): adding to final database dump
+0942.249 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wpjm_stats.table.gz (48/56/fopen): adding to final database dump
+0942.251 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_e_events.table.tmpr2.gz (49/56/fopen): adding to final database dump
+0942.263 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_e_events.table.gz (50/56/fopen): adding to final database dump
+0942.265 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_evf_entries.table.tmpr0.gz (51/56/fopen): adding to final database dump
+0942.268 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_evf_entries.table.gz (52/56/fopen): adding to final database dump
+0942.270 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_evf_sessions.table.tmpr0.gz (53/56/fopen): adding to final database dump
+0942.273 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_evf_sessions.table.gz (54/56/fopen): adding to final database dump
+0942.275 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_um_metadata.table.tmpr0.gz (55/56/fopen): adding to final database dump
+0942.277 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_um_metadata.table.gz (56/56/fopen): adding to final database dump
+0942.279 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_admin_note_actions.table.tmpr597.gz (57/56/fopen): adding to final database dump
+0942.281 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_admin_note_actions.table.gz (58/56/fopen): adding to final database dump
+0942.283 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_admin_notes.table.tmpr59.gz (59/56/fopen): adding to final database dump
+0942.286 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_admin_notes.table.gz (60/56/fopen): adding to final database dump
+0942.288 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_customer_lookup.table.tmpr0.gz (61/56/fopen): adding to final database dump
+0942.290 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_customer_lookup.table.gz (62/56/fopen): adding to final database dump
+0942.292 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_download_log.table.tmpr0.gz (63/56/fopen): adding to final database dump
+0942.295 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_download_log.table.gz (64/56/fopen): adding to final database dump
+0942.297 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_addresses.table.tmpr0.gz (65/56/fopen): adding to final database dump
+0942.299 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_addresses.table.gz (66/56/fopen): adding to final database dump
+0942.301 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (67/56/fopen): adding to final database dump
+0942.303 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_coupon_lookup.table.gz (68/56/fopen): adding to final database dump
+0942.305 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_operational_data.table.tmpr0.gz (69/56/fopen): adding to final database dump
+0942.307 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_operational_data.table.gz (70/56/fopen): adding to final database dump
+0942.309 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (71/56/fopen): adding to final database dump
+0942.312 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_product_lookup.table.gz (72/56/fopen): adding to final database dump
+0942.314 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_stats.table.tmpr0.gz (73/56/fopen): adding to final database dump
+0942.316 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_stats.table.gz (74/56/fopen): adding to final database dump
+0942.321 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (75/56/fopen): adding to final database dump
+0942.323 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_order_tax_lookup.table.gz (76/56/fopen): adding to final database dump
+0942.325 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_orders.table.tmpr0.gz (77/56/fopen): adding to final database dump
+0942.327 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_orders.table.gz (78/56/fopen): adding to final database dump
+0942.329 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_orders_meta.table.tmpr0.gz (79/56/fopen): adding to final database dump
+0942.332 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_orders_meta.table.gz (80/56/fopen): adding to final database dump
+0942.334 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (81/56/fopen): adding to final database dump
+0942.337 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_product_attributes_lookup.table.gz (82/56/fopen): adding to final database dump
+0942.339 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_product_download_directories.table.tmpr3.gz (83/56/fopen): adding to final database dump
+0942.341 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_product_download_directories.table.gz (84/56/fopen): adding to final database dump
+0942.343 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_rate_limits.table.tmpr0.gz (85/56/fopen): adding to final database dump
+0942.346 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_rate_limits.table.gz (86/56/fopen): adding to final database dump
+0942.348 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_webhooks.table.tmpr0.gz (87/56/fopen): adding to final database dump
+0942.350 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_wc_webhooks.table.gz (88/56/fopen): adding to final database dump
+0942.353 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (89/56/fopen): adding to final database dump
+0942.355 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_api_keys.table.gz (90/56/fopen): adding to final database dump
+0942.357 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (91/56/fopen): adding to final database dump
+0942.359 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_attribute_taxonomies.table.gz (92/56/fopen): adding to final database dump
+0942.361 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (93/56/fopen): adding to final database dump
+0942.363 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (94/56/fopen): adding to final database dump
+0942.365 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_log.table.tmpr0.gz (95/56/fopen): adding to final database dump
+0942.367 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_log.table.gz (96/56/fopen): adding to final database dump
+0942.369 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_order_items.table.tmpr0.gz (97/56/fopen): adding to final database dump
+0942.372 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_order_items.table.gz (98/56/fopen): adding to final database dump
+0942.374 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (99/56/fopen): adding to final database dump
+0942.379 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_payment_tokens.table.gz (100/56/fopen): adding to final database dump
+0942.381 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_sessions.table.tmpr32.gz (101/56/fopen): adding to final database dump
+0942.384 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_sessions.table.gz (102/56/fopen): adding to final database dump
+0942.386 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (103/56/fopen): adding to final database dump
+0942.388 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_shipping_zone_locations.table.gz (104/56/fopen): adding to final database dump
+0942.390 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (105/56/fopen): adding to final database dump
+0942.393 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_shipping_zone_methods.table.gz (106/56/fopen): adding to final database dump
+0942.395 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (107/56/fopen): adding to final database dump
+0942.397 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_shipping_zones.table.gz (108/56/fopen): adding to final database dump
+0942.399 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (109/56/fopen): adding to final database dump
+0942.402 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_tax_rate_locations.table.gz (110/56/fopen): adding to final database dump
+0942.404 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (111/56/fopen): adding to final database dump
+0942.406 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db-table-wp_woocommerce_tax_rates.table.gz (112/56/fopen): adding to final database dump
+0942.495 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz: finished writing out complete database file (720.8 KB)
+0942.553 (0) Total database tables backed up: 56 (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz, size: 738263, sha1: a1bf587e13e4da7f5f18cec0cd54fab574ef7078, sha256: 7dcd5570343c6c15b6f76d94d5ce8bfcc98b43e2ec13d42ea5881e9f34035d9e)
+0942.565 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip: plugins: This file has already been successfully uploaded
+0942.566 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip: themes: This file has already been successfully uploaded
+0942.568 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip: uploads: This file has already been successfully uploaded
+0942.571 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip: others: This file has already been successfully uploaded
+0942.572 (0) backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz: db: This file has not yet been successfully uploaded: will queue
+0942.574 (0) Saving backup history. Total backup size: 80.4 MB
+0942.579 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0942.586 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0942.588 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-8c6521319b43290511f69f9b9976c996)
+0943.689 (0) Google Drive: quota usage: used=1759.1 MB, total=15360 MB, available=13600.9 MB
+0943.693 (0) Google Drive: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz: Attempting to upload to Google Drive (into folder id: 1lT-GT72u_FvbRB2FRlMhYw1fqUZn9gu7)
+0944.985 (2) Opened log file at time: Sun, 09 Feb 2025 05:32:24 +0000 on http://localhost/careerconnect/wordpress-6.7.1/wordpress
+0944.992 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.1 PHP: 8.2.12 (apache2handler, Windows NT LAPTOP-N3PQ8S06 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 89.2M | 110M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0944.996 (2) Free space on disk containing Updraft's temporary directory: 358945.4 MB
+0945.001 (2) Requesting backup semaphore lock (a0faf83619bc)
+0945.005 (2) [Info] Lock (updraft_lock_a0faf83619bc, wp_options) acquired
+0945.011 (2) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1739079141.6, time_now=1739079144.1, diff=2, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0945.014 (2) A new resumption will be scheduled to prevent the job ending
+0945.017 (2) Rescheduling resumption 3: moving to 900 seconds from now (1739080044)
+0945.026 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 973 + 120 = 1093
+0948.525 (0) The time we have been running (948.5) is approaching the resumption interval (973) - increasing resumption interval to 979
+0948.530 (0) Googledrive chunked upload: 100 % uploaded
+0948.539 (0) Google Drive: OK: Archive backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz uploaded in 4.84 seconds
+0948.541 (0) Recording as successfully uploaded: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz
+0948.548 (0) Deleting local file: backup_2025-02-09-0516_Career_Connect_a0faf83619bc-db.gz: OK
+0948.553 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0948.557 (0) Number of backup sets in history: 2; groups (db): 1
+0948.559 (0) Examining (for databases) backup set with group_id=0, nonce=a0faf83619bc, datestamp=1739078199 (Feb 09 2025 05:16:39)
+0948.561 (0) This backup set is the backup set just made, so will not be deleted.
+0948.561 (0) Examining (for databases) backup set with group_id=0, nonce=1fef4de5ef2b, datestamp=1739034621 (Feb 08 2025 17:10:21)
+0948.561 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0948.563 (0) Number of backup sets in history: 2; groups (files): 1
+0948.566 (0) Examining (for files) backup set with nonce=a0faf83619bc, datestamp=1739078199 (Feb 09 2025 05:16:39)
+0948.566 (0) This backup set is the backup set just made, so will not be deleted.
+0948.568 (0) This backup set is the backup set just made, so will not be deleted.
+0948.568 (0) This backup set is the backup set just made, so will not be deleted.
+0948.568 (0) This backup set is the backup set just made, so will not be deleted.
+0948.568 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0948.571 (0) Examining (for files) backup set with nonce=1fef4de5ef2b, datestamp=1739034621 (Feb 08 2025 17:10:21)
+0948.571 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0948.571 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0948.577 (0) Resume backup (a0faf83619bc, 0): finish run
+0948.584 (0) Decremented the semaphore (fd) by 1
+0948.587 (0) Semaphore (fd) unlocked
+0948.589 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0948.600 (0) Deleting zip manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-plugins.zip.list.tmp)
+0948.604 (0) Deleting zip manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-themes.zip.list.tmp)
+0948.610 (0) Deleting zip manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-uploads.zip.list.tmp)
+0948.614 (0) Deleting zip manifest (backup_2025-02-09-0516_Career_Connect_a0faf83619bc-others.zip.list.tmp)
+0948.617 (0) No email will/can be sent - the user has not configured an email address.
+0948.619 (0) The backup succeeded and is now complete
