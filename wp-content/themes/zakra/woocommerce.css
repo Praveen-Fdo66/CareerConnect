@@ -284,7 +284,7 @@ li.product .added_to_cart:hover {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
-	background: url(./assets/img/chevron-down.svg) no-repeat top 50% right 1em;
+	background: url(https://praveen-fdo66.github.io/CareerConnect/wp-content/themes/zakra/assets/img/chevron-down.svg) no-repeat top 50% right 1em;
 	background-size: 12px;
 }
 
@@ -1608,7 +1608,7 @@ p.stars.selected a:not(.active)::before {
 	width: 72px;
 	border-radius: 100%;
 	margin: 0 auto 24px auto;
-	background: #F4F4F5 url(./assets/img/mini-cart.svg);
+	background: #F4F4F5 url(https://praveen-fdo66.github.io/CareerConnect/wp-content/themes/zakra/assets/img/mini-cart.svg);
 	background-position: right 50% top 50%;
 	content: "";
 	display: block;
